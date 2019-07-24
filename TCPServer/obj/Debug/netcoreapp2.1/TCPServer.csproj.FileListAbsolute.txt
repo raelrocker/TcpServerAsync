@@ -1,0 +1,11 @@
+C:\Users\rael\source\repos\TCPAsync\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.deps.json
+C:\Users\rael\source\repos\TCPAsync\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.json
+C:\Users\rael\source\repos\TCPAsync\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.dev.json
+C:\Users\rael\source\repos\TCPAsync\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.dll
+C:\Users\rael\source\repos\TCPAsync\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.pdb
+C:\Users\rael\source\repos\TCPAsync\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csprojAssemblyReference.cache
+C:\Users\rael\source\repos\TCPAsync\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\rael\source\repos\TCPAsync\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfoInputs.cache
+C:\Users\rael\source\repos\TCPAsync\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfo.cs
+C:\Users\rael\source\repos\TCPAsync\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.dll
+C:\Users\rael\source\repos\TCPAsync\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.pdb
